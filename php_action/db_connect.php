@@ -3,8 +3,8 @@
 //CONEXÃO COM O BANCO DE DADOS
 
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "thalliamichelle
+$password = "13x27x41";
 $db_name = "loja_carros";
 
 $connect = mysqli_connect($servername, $username, $password, $db_name);
